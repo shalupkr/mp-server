@@ -1,0 +1,48 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Vaazha",
+      "url": "https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2024/8/17/vazha.jpg",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU"
+    },
+    {
+      "id": "2",
+      "caption": "Aveesham",
+      "url": "https://content.tupaki.com/en/feeds/2024/05/09/383358-aavesham.webp",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Vaazha",
+      "link": "https://www.youtube.com/embed/284Ov7ysmfA",
+      "timeStamp": "09/27/2024, 05:53:59 PM",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Aveesham",
+          "url": "https://content.tupaki.com/en/feeds/2024/05/09/383358-aavesham.webp",
+          "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Vaazha",
+          "url": "https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2024/8/17/vazha.jpg",
+          "link": "https://www.youtube.com/embed/e1BHIY9p2WU"
+        }
+      ]
+    }
+  ]
+}
